@@ -1,6 +1,8 @@
 # PRLSigs
 Identification of ferroptosis-related lncRNAs for predict-ing prognosis and immunotherapy response in non-small cell lung cancer
 
+R packages are all publicly available, the names of the R packages can be found in the paper.
+
 The public datasets download links.
 
 GEO website： https://www.ncbi.nlm.nih.gov/geo/
